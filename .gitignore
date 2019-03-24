@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/Mountebank/v15
+/.vs
+/AaServiceImposter/bin
+/AaServiceImposter/obj/Debug
+/ConsoleApplication4/bin
+/ConsoleApplication4/obj/Debug
+/Contracts/bin/Debug
+/Contracts/obj/Debug
+/FuelServiceImposter/bin
+/FuelServiceImposter/obj/Debug
+/packages
+/UserServiceImposter/bin
+/UserServiceImposter/obj/Debug
