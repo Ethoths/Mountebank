@@ -111,7 +111,7 @@ namespace ConsoleApplication4
             }
             catch (Exception)
             {
-                Write("Error starting imposters. Ensure the Mountebank server is running...");
+                Write("Error starting imposters. Ensure the Mountebank server is running.");
             }
         }
     }
